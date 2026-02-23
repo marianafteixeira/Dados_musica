@@ -1,7 +1,9 @@
 # Dados_musica
 
-### Análise de dados sobre o top 50 do Spotify no ano de 2019 utilizando o ETL: Extração dos dados, transformação e carregamento. 
+### Criando projetos para absorver mais sonhecimentos sobre Análise de dados.
 
-##### Utilizando a linguagem Python para carregar, transformar os dados, criar as vizualizações e carregar como CSV.
+##### Criado usando os dados extraídos do Kaggle: Top 50 do Spotify no ano de 2019. 
+
+##### Feiro com o ETL: Extração dos dados, transformação e carregamento. Utilizando a linguagem Python para carregar, transformar os dados, criar as vizualizações e carregar como CSV. 
 
 
